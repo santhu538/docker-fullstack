@@ -10,7 +10,7 @@
     },
     {
       "name": "nginx",
-      "image": "santhu538/multi-client",
+      "image": "santhu538/multi-nginx",
       "hostname": "nginx",
       "essential": true,
       "portMappings": [
